@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B3FC202B-E758-4412-B0FB-E912B2BB6FC6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04FCD978-E390-4705-9FCB-BB7EEC318B8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WidgetGIF/WigetGIF-1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getTimeline(in:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DB369C9-6A57-4FAD-A728-D549F82B0E9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WidgetGIF/WigetGIF-1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "getTimeline(in:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A42E8FF6-64AE-46A9-BA0A-E3B745A9E6C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WidgetGIF/WigetGIF-1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "getTimeline(in:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A42E8FF6-64AE-46A9-BA0A-E3B745A9E6C7 - 21b2f10893dbed48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetGIFExtension.StaticImageWidgetProvider.getTimeline(in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;WidgetGIFExtension.StaticImageWidgetEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WidgetGIFExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/athinkingneal/Desktop/CodeBases/iOS/GIF/WidgetGIF/WigetGIF-1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+               <Location
+                  uuid = "A42E8FF6-64AE-46A9-BA0A-E3B745A9E6C7 - 16cb116c7d52b6e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetGIFExtension.GIFWidgetProvider.getTimeline(in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;WidgetGIFExtension.GIFWidgetEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WidgetGIFExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/athinkingneal/Desktop/CodeBases/iOS/GIF/WidgetGIF/WigetGIF-1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
