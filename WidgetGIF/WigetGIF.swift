@@ -51,20 +51,33 @@ struct GIFWidgetProvider: TimelineProvider {
         // Extract the list of images from the GIF
         let images = extractImagesFromGIF(named: "jerry-tom") ?? []
         
-        let currentDate = Date()
         let imageCount = images.count
         
         if imageCount == 0 {
             print("not enough images")
         }
         
-        for index in 0 ..< imageCount{
-            let entryDate = Calendar.current.date(byAdding: .second, value: index, to: currentDate)!
         
-            let entry = GIFWidgetEntry(date: entryDate, image: images[index])
+        // repeat the GIF entries for 20 times
+        
+        let gifRound = 10
+        
+       
+        for round in 0..<gifRound {
             
-            entries.append(entry)
-            
+            let currentDate = Date()
+
+            for index in 0 ..< imageCount{
+                
+                let secondCount = round * imageCount + index
+                
+                let entryDate = Calendar.current.date(byAdding: .second, value: secondCount, to: currentDate)!
+                
+                let entry = GIFWidgetEntry(date: entryDate, image: images[index])
+                
+                entries.append(entry)
+                
+            }
         }
         
         let timeline = Timeline(entries: entries, policy: .atEnd)
@@ -81,7 +94,7 @@ struct GIFWidget: Widget {
         StaticConfiguration(kind: kind, provider: GIFWidgetProvider()) { entry in
             GIFWidgetView(entry: entry)
         }
-        .supportedFamilies([.systemMedium])
+        .supportedFamilies([.systemSmall])
         .configurationDisplayName("Static Image Widget")
         .description("Display a sequence of static images in the widget.")
     }

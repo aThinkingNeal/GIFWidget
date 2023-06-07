@@ -84,5 +84,164 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3CABF3E-B252-4DA9-8FEE-56182F2B19FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WidgetGIF/WigetGIF.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "getTimeline(in:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3CABF3E-B252-4DA9-8FEE-56182F2B19FA - 73a660f926e1cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetGIFExtension.GIFWidgetProvider.getTimeline(in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;WidgetGIFExtension.GIFWidgetEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WidgetGIFExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/athinkingneal/Desktop/CodeBases/iOS/GIF/WidgetGIF/WigetGIF.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "2296">
+               </Location>
+               <Location
+                  uuid = "E3CABF3E-B252-4DA9-8FEE-56182F2B19FA - 73a660f926e1c77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetGIFExtension.GIFWidgetProvider.getTimeline(in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;WidgetGIFExtension.GIFWidgetEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WidgetGIFExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/athinkingneal/Desktop/CodeBases/iOS/GIF/WidgetGIF/WigetGIF.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E139778-52FB-4671-B37D-5A58360386D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WidgetGIF/WigetGIF.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "getTimeline(in:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E139778-52FB-4671-B37D-5A58360386D8 - 73a660f926e1dda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetGIFExtension.GIFWidgetProvider.getTimeline(in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;WidgetGIFExtension.GIFWidgetEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WidgetGIFExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/athinkingneal/Desktop/CodeBases/iOS/GIF/WidgetGIF/WigetGIF.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2020">
+               </Location>
+               <Location
+                  uuid = "6E139778-52FB-4671-B37D-5A58360386D8 - 73a660f926e1dda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetGIFExtension.GIFWidgetProvider.getTimeline(in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;WidgetGIFExtension.GIFWidgetEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WidgetGIFExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/athinkingneal/Desktop/CodeBases/iOS/GIF/WidgetGIF/WigetGIF.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2056">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAE77095-36AE-47BD-A4B4-A6416FCC6861"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WidgetGIF/WigetGIF.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "getTimeline(in:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AAE77095-36AE-47BD-A4B4-A6416FCC6861 - 73a660f926e13ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetGIFExtension.GIFWidgetProvider.getTimeline(in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;WidgetGIFExtension.GIFWidgetEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WidgetGIFExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/athinkingneal/Desktop/CodeBases/iOS/GIF/WidgetGIF/WigetGIF.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+               <Location
+                  uuid = "AAE77095-36AE-47BD-A4B4-A6416FCC6861 - 73a660f926e138d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetGIFExtension.GIFWidgetProvider.getTimeline(in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;WidgetGIFExtension.GIFWidgetEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WidgetGIFExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/athinkingneal/Desktop/CodeBases/iOS/GIF/WidgetGIF/WigetGIF.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+               <Location
+                  uuid = "AAE77095-36AE-47BD-A4B4-A6416FCC6861 - 73a660f926e138d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WidgetGIFExtension.GIFWidgetProvider.getTimeline(in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;WidgetGIFExtension.GIFWidgetEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WidgetGIFExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/athinkingneal/Desktop/CodeBases/iOS/GIF/WidgetGIF/WigetGIF.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
